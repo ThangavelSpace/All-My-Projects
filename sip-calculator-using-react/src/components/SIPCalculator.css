@@ -1,0 +1,54 @@
+/* SIPCalculator.css */
+
+/* Set a background color for the entire calculator component */
+.sip-calculator {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #3ae4b2; /* Example background color */
+  }
+  
+  /* SIPCalculator.css */
+
+/* Container styles */
+  
+  /* Input container styles */
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  /* Input field styles */
+  .input-container label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .input-container input[type="text"],
+  .input-container input[type="range"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+  
+  /* Results container styles */
+  .results {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Individual result styles */
+  .results p {
+    margin: 5px 0;
+  }
+  
+  /* Apply more styles as needed */
+  
