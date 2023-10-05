@@ -1,0 +1,30 @@
+/* Styling for the box model container */
+.box-model-container {
+    width: 80%; /* Adjust the width as needed */
+    margin: 20px auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding around the content */
+    border: 1px solid #ccc; /* Add a border around the box */
+    border-radius: 8px; /* Add rounded corners */
+    background-color:#5faa657a; /* Set the background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a box shadow */
+  }
+  
+  /* Styling for the input labels */
+  .input-group label {
+    font-weight: bold;
+    margin-bottom: 5px; /* Add vertical spacing below the labels */
+    display: block; /* Display each label on a new line */
+  }
+  
+  /* Styling for the input fields */
+  .input-group input[type="number"],
+  .input-group input[type="range"] {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 15px; /* Add vertical spacing below the input fields */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Add more styles as needed */
+  
