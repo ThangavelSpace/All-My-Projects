@@ -1,0 +1,48 @@
+/* App.css */
+/* Style for the outer container */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+/* Style for the calculator container */
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Style for the input sliders */
+input[type="range"] {
+  width: 100%;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+/* Style for the result section */
+h3 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+/* Style for the result values */
+.result-values {
+  font-weight: bold;
+}
