@@ -1,0 +1,13 @@
+/* App.css */
+
+/* Set the background image for the entire webpage */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('pexels-marcus-aurelius-6787971.jpg'); /* Background image URL */
+  background-size: cover; /* Cover the entire viewport */
+  background-repeat: no-repeat; /* Prevent image repetition */
+}
+
+/* Global styles can be added here */

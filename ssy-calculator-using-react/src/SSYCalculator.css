@@ -1,0 +1,39 @@
+.ssy-calculator {
+    background-color: transparent; /* Set background to transparent */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 0 auto;
+    max-width: 400px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .ssy-calculator h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .ssy-calculator .input-container {
+    margin-bottom: 15px;
+  }
+  
+  .ssy-calculator label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .ssy-calculator input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .ssy-calculator .results {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  /* You can add more styling as needed */
+  
