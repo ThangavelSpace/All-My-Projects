@@ -1,0 +1,65 @@
+.bmi-calculator {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #cbc5c5;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+.radio-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio-container input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  .radio-container label {
+    margin-right: 15px;
+  }
+  
+.reset{
+    margin-left: 15px;
+}
